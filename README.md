@@ -43,3 +43,7 @@ Use "ollama [command] --help" for more information about a command.
 
 위와 같이 출력이 되면 설치가 완료가 된 것입니다.
 
+## 단계2
+
+## 단계3
+
